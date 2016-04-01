@@ -1,0 +1,1 @@
+Rscript /home/student/hzhang1/R/case_control_heritability/code/simulation3/simulation3.R $1
